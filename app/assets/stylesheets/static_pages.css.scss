@@ -1,0 +1,36 @@
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+/* home */
+
+.btn-wrapper{
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.signup{
+  background-color: #666;
+}
+
+.facebook{
+  background-color: #666;
+}
+
+.twitter{
+  background-color: #666;
+}
+
+.feature-section{
+  width: 100%;
+  border-top: solid 1px #bbb;
+  text-align: center;
+}
+
+.feature-item{
+  width: 24.5%;
+  display: inline-block;
+  background-color: #ddd;
+  text-align: center;
+}
